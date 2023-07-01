@@ -1,9 +1,9 @@
 ﻿#!/bin/sh
 
-UUID=${UUID:-'e720c277-ef46-43db-b3ad-84aa9908fc54'}
-VMESS_WSPATH=${VMESS_WSPATH:-'/vmess'}
-VLESS_WSPATH=${VLESS_WSPATH:-'/vless'}
-TROJAN_WSPATH=${TROJAN_WSPATH:-'/trojan'}
+UUID=${UUID:-'beb47d5f-e934-42f9-adc0-484558557bbf'}
+VMESS_WSPATH=${VMESS_WSPATH:-'/beb47d5f-e934-42f9-adc0-484558557bbf-vmess'}
+VLESS_WSPATH=${VLESS_WSPATH:-'/beb47d5f-e934-42f9-adc0-484558557bbf-vless'}
+TROJAN_WSPATH=${TROJAN_WSPATH:-'/beb47d5f-e934-42f9-adc0-484558557bbf-trojan'}
 SS_WSPATH=${SS_WSPATH:-'/shadowsocks'}
 URL=${HOSTNAME}-8080.csb.app
 
